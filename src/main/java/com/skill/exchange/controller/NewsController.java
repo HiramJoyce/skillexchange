@@ -1,6 +1,5 @@
 package com.skill.exchange.controller;
 
-import com.alibaba.druid.util.StringUtils;
 import com.skill.exchange.domain.News;
 import com.skill.exchange.service.NewsService;
 import org.springframework.beans.factory.annotation.Autowired;
